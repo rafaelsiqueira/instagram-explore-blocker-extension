@@ -4,7 +4,7 @@ This extension helps in parent control, avoiding unappropriated content by disab
 
 This is an extension for any chromium-based browser.
 
-# ScreenShorts
+# Screenshot
 
 ## Header
 
